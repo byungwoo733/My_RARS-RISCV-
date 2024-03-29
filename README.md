@@ -8,6 +8,6 @@ RARS 1.6 (RISCV) with Bitmap Display Screenshot
 
 =====================
 
-My32 RISCV Processor (for Pratice)
+[RISC-V Based Processor with Verilog & Chisel3] My32Processor (My Processor for Pratice)
 
 https://github.com/byungwoo733/My_Chisel3
